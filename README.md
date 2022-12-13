@@ -1,5 +1,5 @@
 # knime-extension-template
-cookiecutter knime extension template
+[cookiecutter](https://cookiecutter.readthedocs.io/en/stable/) knime extension template
 
 
 
